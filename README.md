@@ -1,2 +1,3 @@
-# herianroy.github.io
-My GitHub summary page
+# Hi!
+
+Thank you for checking out my page.
